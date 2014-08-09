@@ -9,4 +9,5 @@
 <li>work on Angular JS</li>
 <li>go to Xoco w/ Candice</li>
 <li>reply to all the emails</li>
+<li>clean up email</li>
 </ul> 
