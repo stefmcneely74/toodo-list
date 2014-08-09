@@ -1,0 +1,7 @@
+<h1>Things to git done</h1>
+<ul>
+<li>Laundry</li>
+<li>Need fruits & veg</li>
+<li>Need to clean all the things</li>
+<li>Need PB & Apples duh</li>
+</ul> 
