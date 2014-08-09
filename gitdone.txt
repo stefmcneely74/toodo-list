@@ -7,4 +7,5 @@
 <li>Seriously, take out recycling</li>
 <li>sew all the things</li>
 <li>work on Angular JS</li>
+<li>go to Xoco w/ Candice</li>
 </ul> 
