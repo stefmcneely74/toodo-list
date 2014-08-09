@@ -4,4 +4,7 @@
 <li>Need fruits & veg</li>
 <li>Need to clean all the things</li>
 <li>Need PB & Apples duh</li>
+<li>Seriously, take out recycling</li>
+<li>sew all the things</li>
+<li>work on Angular JS</li>
 </ul> 
